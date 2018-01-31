@@ -3,11 +3,11 @@ site_name: Awesome DevOps
 site_url: 'https://awesome-devops.org'
 site_description: 'a collection of usefull DevOps resources and awesome lists.'
 site_author: 'KeyboardInterrupt'
-repo_name: 'awesome-devops/awesome-devops.org'
+repo_name: 'Awesome DevOps on Github'
 repo_url: 'https://github.com/awesome-devops/awesome-devops.org'
 theme:
   name: 'material'
   palette:
-    primary: 'teal'
-    accent: 'pink'
+    primary: 'green'
+    accent: 'green'
   logo: 'images/logo.png'
